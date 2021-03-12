@@ -16,7 +16,7 @@ module.exports = {
 
     .setColor("RANDOM")
     .setTimestamp()
-    .setFooter(`Made by khan manan #9006`, client.user.displayAvatarURL({ format: "png" }))
+    .setFooter(`Made by Shu Kurenai#1234`, client.user.displayAvatarURL({ format: "png" }))
     message.channel.send(embed)
   }
 }
